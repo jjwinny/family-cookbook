@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "your-angular-library": "git+https://github.com/your-username/your-angular-library.git"
+    }
+}
